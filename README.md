@@ -1,3 +1,5 @@
+My first ML project. Completed on Feb 11, 2020 as a student of IronHack.
+
 # 📚 Book Recommendation System
 
 A **content-based machine learning** project that suggests books similar to the one you input. Simply provide a book title, and the system returns personalized recommendations based on book characteristics.
