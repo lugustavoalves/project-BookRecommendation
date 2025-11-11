@@ -45,13 +45,14 @@ pip install pandas numpy matplotlib seaborn requests beautifulsoup4 scikit-learn
 
 ## ▶️ Usage
 
-**Run the recommendation function**
+**Run the recommendation function:**.
+
 ```recommendation("Harry Potter")```
 
 The system will:
 1. Search for matching titles
 2. Prompt you to select the correct book if needed
-# 3. Return 2 recommended books
+3. Return 2 recommended books
 
 ```
 OUR RECOMMENDATIONS ARE:
